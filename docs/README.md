@@ -1,6 +1,6 @@
 # docs/
-**user-guide/**: contains the user guide for the microservice, including instructions for using the API and any other features.
+**user-guide/**: contiene la guía del usuario del microservicio, incluidas las instrucciones para utilizar la API y otras funciones.
 
-**developer-guide/**: contains the developer guide for the microservice, including instructions for contributing to the project and writing test cases.
+**guía del desarrollador/**: contiene la guía del desarrollador para el microservicio, incluidas las instrucciones para contribuir al proyecto y escribir casos de prueba.
 
-**api-reference/**: contains the reference for the microservice's API, including the endpoints, request and response formats, and any other necessary details.
+**api-reference/**: contiene la referencia de la API del microservicio, incluidos los puntos finales, los formatos de solicitud y respuesta, y cualquier otro detalle necesario.

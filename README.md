@@ -1,11 +1,10 @@
-# Folder structure for a Microservice
-**src/**: contains the source code of the microservice, divided into subfolders for different components or modules
+# Estructura de carpetas para un microservicio
+**src/**: contiene el código fuente del microservicio, dividido en subcarpetas para diferentes componentes o módulos
 
-**test/**: contains the test cases and test scripts for the microservice, divided into subfolders for different types of tests.
+**test/**: contiene los casos de prueba y los scripts de prueba para el microservicio, divididos en subcarpetas para diferentes tipos de pruebas.
 
-**docs/**: contains the documentation for the microservice, divided into subfolders for different types of documentation.
+**docs/**: contiene la documentación para el microservicio, dividida en subcarpetas para diferentes tipos de documentación.
 
-**deploy/**: contains the deployment scripts and configuration files for the microservice, divided into subfolders for different types of deployment files.
+**deploy/**: contiene los scripts de implementación y los archivos de configuración para el microservicio, divididos en subcarpetas para diferentes tipos de archivos de implementación.
 
-**scripts/**: contains any additional scripts or tools that may be needed for development or deployment of the microservice, divided into subfolders for different types of scripts.
-
+**scripts/**: contiene cualquier script o herramienta adicional que pueda ser necesaria para el desarrollo o implementación del microservicio, divididos en subcarpetas para diferentes tipos de scripts.

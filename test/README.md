@@ -1,8 +1,8 @@
 # test/
-**unit/**: contains the unit test cases for the microservice's individual components or modules.
+**unit/**: contiene los casos de prueba unitarios para los componentes o módulos individuales del microservicio.
 
-**integration/**: contains the integration test cases for the microservice's API and other components.
+**integration/**: contiene los casos de prueba de integración para la API del microservicio y otros componentes.
 
-**end-to-end/**: contains the end-to-end test cases for the microservice's overall functionality.
+**end-to-end/**: contiene los casos de prueba de extremo a extremo para la funcionalidad general del microservicio.
 
-**tools/**: contains any tools or utilities needed for running the test cases, such as test runners or mock servers.
+**tools/**: contiene las herramientas o utilidades necesarias para ejecutar los casos de prueba, como ejecutores de pruebas o servidores simulados.

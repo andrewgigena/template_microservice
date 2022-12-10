@@ -1,8 +1,8 @@
 # src/data/
-**api/**: contains code for interacting with the database through the microservice's API, such as CRUD operations and data validation.
+**api/**: contiene código para interactuar con la base de datos a través de la API del microservicio, como operaciones CRUD y validación de datos.
 
-**models/**: contains data models that define the structure and relationships of the data in the database.
+**models/**: contiene modelos de datos que definen la estructura y las relaciones de los datos en la base de datos.
 
-**queries/**: contains functions or methods that query the database and return the requested data.
+**consultas/**: contiene funciones o métodos que consultan la base de datos y devuelven los datos solicitados.
 
-**migrations/**: contains tools and scripts for managing and migrating data in the database.
+**Migrations/**: contiene herramientas y scripts para gestionar y migrar datos en la base de datos.

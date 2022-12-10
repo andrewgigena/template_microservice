@@ -1,8 +1,8 @@
 # src/
-**api/**: contains the code for the microservice's API, including the implementation of the API routes and any necessary middleware or helper functions.
+**api/**: contiene el código para la API del microservicio, incluida la implementación de las rutas de la API y cualquier middleware o función de ayuda necesaria.
 
-**core/**: contains the core logic of the microservice, including the implementation of the core functionality and any necessary utilities or tools.
+**core/**: contiene la lógica central del microservicio, incluida la implementación de la funcionalidad central y las utilidades o herramientas necesarias.
 
-**data/**: contains code for handling data storage and retrieval, including database connection scripts, data models, and data management tools.
+**data/**: contiene código para gestionar el almacenamiento y la recuperación de datos, incluidos scripts de conexión a bases de datos, modelos de datos y herramientas de gestión de datos.
 
-**utils/**: contains utility functions and tools that are used by the microservice's core or data components.
+**utils/**: contiene funciones de utilidad y herramientas utilizadas por el núcleo del microservicio o los componentes de datos.

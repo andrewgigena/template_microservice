@@ -1,8 +1,8 @@
 # scripts/
-**build/**: contains scripts for building the microservice's code.
+**build/**: contiene scripts para construir el código del microservicio.
 
-**lint/**: contains scripts for linting the microservice's code.
+**lint/**: contiene scripts para el linting del código del microservicio.
 
-**test/**: contains scripts for running the microservice's test cases.
+**test/**: contiene scripts para ejecutar los casos de prueba del microservicio.
 
-**deploy/**: contains scripts for deploying the microservice to different environments.
+**deploy/**: contiene scripts para desplegar el microservicio en diferentes entornos.

@@ -1,8 +1,8 @@
 # deploy/
-**scripts/**: contains the deployment scripts and tools for building, packaging, and deploying the microservice.
+**scripts/**: contiene los scripts de despliegue y las herramientas para crear, empaquetar y desplegar el microservicio.
 
-**config/**: contains the configuration files for the microservice's runtime environment, such as environment variables and service settings.
+**config/**: contiene los archivos de configuración para el entorno de ejecución del microservicio, como variables de entorno y ajustes de servicio.
 
-**infrastructure/**: contains any necessary infrastructure configuration files, such as Dockerfiles or Kubernetes manifests.
+**Infraestructura/**: contiene los archivos de configuración de infraestructura necesarios, como archivos Docker o manifiestos Kubernetes.
 
-**docs/**: contains the documentation for the deployment process, including instructions for building, packaging, and deploying the microservice.
+**docs/**: contiene la documentación para el proceso de despliegue, incluidas las instrucciones para crear, empaquetar y desplegar el microservicio.
