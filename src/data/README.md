@@ -3,6 +3,6 @@
 
 **models/**: contiene modelos de datos que definen la estructura y las relaciones de los datos en la base de datos.
 
-**consultas/**: contiene funciones o métodos que consultan la base de datos y devuelven los datos solicitados.
+**queries/**: contiene funciones o métodos que consultan la base de datos y devuelven los datos solicitados.
 
-**Migrations/**: contiene herramientas y scripts para gestionar y migrar datos en la base de datos.
+**migrations/**: contiene herramientas y scripts para gestionar y migrar datos en la base de datos.
